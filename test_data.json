@@ -1,0 +1,27 @@
+{
+     "indian": [
+          "Samosa",
+          "Roti",
+          "Daal",
+          "Naan",
+          "Poha",
+          "Pakoda",
+          "Chicken Curry",
+          "Biryani",
+          "Kachori",
+          "Dosa"
+     ],
+     "chinese": [
+          "Egg Rolls",
+          "Fried Rice",
+          "Manchurian",
+          "Chicken Lollypop",
+          "Soup"
+     ],
+     "italian": [
+          "Pasta",
+          "Pizza",
+          "Macroni",
+          "Sizzlers"
+     ]
+}
